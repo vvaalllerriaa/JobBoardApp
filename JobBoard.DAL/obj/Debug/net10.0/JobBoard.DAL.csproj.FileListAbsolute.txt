@@ -1,0 +1,14 @@
+/Users/valeriasemenova/Desktop/Унік/Архітектура та проєктування ПЗ/Курсовий проєкт/JobBoard.DAL/bin/Debug/net10.0/JobBoard.DAL.deps.json
+/Users/valeriasemenova/Desktop/Унік/Архітектура та проєктування ПЗ/Курсовий проєкт/JobBoard.DAL/bin/Debug/net10.0/JobBoard.DAL.runtimeconfig.json
+/Users/valeriasemenova/Desktop/Унік/Архітектура та проєктування ПЗ/Курсовий проєкт/JobBoard.DAL/bin/Debug/net10.0/JobBoard.DAL.dll
+/Users/valeriasemenova/Desktop/Унік/Архітектура та проєктування ПЗ/Курсовий проєкт/JobBoard.DAL/bin/Debug/net10.0/JobBoard.DAL.pdb
+/Users/valeriasemenova/Desktop/Унік/Архітектура та проєктування ПЗ/Курсовий проєкт/JobBoard.DAL/obj/Debug/net10.0/JobBoard.DAL.csproj.AssemblyReference.cache
+/Users/valeriasemenova/Desktop/Унік/Архітектура та проєктування ПЗ/Курсовий проєкт/JobBoard.DAL/obj/Debug/net10.0/JobBoard.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valeriasemenova/Desktop/Унік/Архітектура та проєктування ПЗ/Курсовий проєкт/JobBoard.DAL/obj/Debug/net10.0/JobBoard.DAL.AssemblyInfoInputs.cache
+/Users/valeriasemenova/Desktop/Унік/Архітектура та проєктування ПЗ/Курсовий проєкт/JobBoard.DAL/obj/Debug/net10.0/JobBoard.DAL.AssemblyInfo.cs
+/Users/valeriasemenova/Desktop/Унік/Архітектура та проєктування ПЗ/Курсовий проєкт/JobBoard.DAL/obj/Debug/net10.0/JobBoard.DAL.csproj.CoreCompileInputs.cache
+/Users/valeriasemenova/Desktop/Унік/Архітектура та проєктування ПЗ/Курсовий проєкт/JobBoard.DAL/obj/Debug/net10.0/JobBoard.DAL.dll
+/Users/valeriasemenova/Desktop/Унік/Архітектура та проєктування ПЗ/Курсовий проєкт/JobBoard.DAL/obj/Debug/net10.0/refint/JobBoard.DAL.dll
+/Users/valeriasemenova/Desktop/Унік/Архітектура та проєктування ПЗ/Курсовий проєкт/JobBoard.DAL/obj/Debug/net10.0/JobBoard.DAL.pdb
+/Users/valeriasemenova/Desktop/Унік/Архітектура та проєктування ПЗ/Курсовий проєкт/JobBoard.DAL/obj/Debug/net10.0/JobBoard.DAL.genruntimeconfig.cache
+/Users/valeriasemenova/Desktop/Унік/Архітектура та проєктування ПЗ/Курсовий проєкт/JobBoard.DAL/obj/Debug/net10.0/ref/JobBoard.DAL.dll
